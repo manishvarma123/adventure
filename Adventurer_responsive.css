@@ -1,0 +1,293 @@
+@media (max-width:425px){
+
+}
+
+@media (max-width:425px){
+    .b_img{
+        height: 35vh;
+    }
+    .banner_text h1{
+        font: 29px arial !important;
+        font-weight: 800 !important;
+        color: rgb(255, 104, 33);
+    }
+    .banner_text p{
+        font: bold 14px arial;
+        letter-spacing: 2px;
+        color: rgb(255, 106, 37);
+        margin-bottom: 15px;
+    }
+    .banner_text button{
+        margin-top: 25px;
+        padding: 4px 15px;
+        background: rgb(51, 16, 0);
+        border: 1px solid rgb(243, 110, 48);
+        color: white;
+    }
+    .text1{
+        top: 10%;
+        left: 15%;
+    }
+    .text2{
+        top: 10%;
+        left: 15%;
+    }
+    .text3{
+        top: 10%;
+        left: 15%;
+    }
+    .banner_text button{
+        margin-top: 5px;
+        padding: 4px 15px;
+        background: rgb(51, 16, 0);
+        border: 1px solid rgb(243, 110, 48);
+        color: white;
+    }
+    .who h2{
+        font: 24px arial;
+        font-weight: 700;
+        margin: 5px 0;
+    }
+    .who p{
+        margin: 15px 0 20px;
+        font: 12px arial;
+        text-align: center;
+        line-height: 22px;
+        color: rgb(0,0,0,.7);
+    }
+    .card-body{
+        font-size: 13px;
+    }
+    .wrap p{
+        margin: 0;
+        color: white;
+    }
+    .service-card{
+        margin: 20px 30px !important;
+    }
+    .service-card h3{
+        font: bold 18px arial;
+        margin: 25px 0 25px;
+    }
+    .service-card h4{
+        font: 16px arial;
+        text-align: justify;
+        line-height: 25px;
+        margin-bottom: 20px;
+        /* color: #c4c8cb; */
+    }
+    .service-card h2 button{
+        padding: 12px 25px;
+    }
+    .who1 h2{
+        margin-top: 25px;
+    }
+    .join_text h2{
+        font-size: 25px;
+        margin: 50px 0 25px;
+    }
+    .join_text p{
+        padding: 0 15px;
+        margin-bottom: 35px;
+    }
+    .tech1{
+        padding-top: 33px !important;
+    }
+    .tech{
+        padding-top: 35px !important;
+    }
+}
+@media (min-width:425px) and (max-width:767.98px){
+    .b_img{
+        height: 35vh;
+    }
+    .banner_text h1{
+        font: 29px arial !important;
+        font-weight: 800 !important;
+        color: rgb(255, 104, 33);
+    }
+    .banner_text p{
+        font: bold 14px arial;
+        letter-spacing: 2px;
+        color: rgb(255, 106, 37);
+        margin-bottom: 15px;
+    }
+   
+    .text1{
+        top: 10%;
+        left: 15%;
+    }
+    .text2{
+        top: 10%;
+        left: 15%;
+    }
+    .text3{
+        top: 10%;
+        left: 15%;
+    }
+    .banner_text button{
+        margin-top: 5px;
+        padding: 4px 15px;
+        background: rgb(51, 16, 0);
+        border: 1px solid rgb(243, 110, 48);
+        color: white;
+    }
+    .who h2{
+        font: 24px arial;
+        font-weight: 700;
+        margin: 5px 0;
+    }
+    .who p{
+        margin: 15px 0 25px;
+        font: 12px arial;
+        text-align: center;
+        line-height: 22px;
+        color: rgb(0,0,0,.7);
+    }
+    .card-body{
+        font-size: 14px;
+    }
+    .wrap p{
+        margin: 0;
+        color: white;
+    }
+    .service-card{
+        margin: 20px 50px !important;
+    }
+    .service-card h3{
+        font: bold 18px arial;
+        margin: 25px 0 25px;
+    }
+    .service-card h4{
+        font: 16px arial;
+        text-align: justify;
+        line-height: 25px;
+        margin-bottom: 28px;
+        /* color: #c4c8cb; */
+    }
+    .service-card h2 button{
+        padding: 12px 25px;
+    }
+    .who1 h2{
+        margin-top: 25px;
+    }
+    .join_text h2{
+        font-size: 27px;
+        margin: 50px 0 25px;
+    }
+    .join_text p{
+        padding: 0 15px;
+        margin-bottom: 35px;
+    }
+}
+@media (min-width:768px) and (max-width:1023.98px){
+    .b_img{
+        height: 45vh;
+    }
+    .banner_text h1{
+        font: 42px arial !important;
+        font-weight: 800 !important;
+        color: rgb(255, 104, 33);
+    }
+    .banner_text p{
+        font: bold 17px arial;
+        letter-spacing: 2px;
+        color: rgb(255, 106, 37);
+        margin-bottom: 15px;
+    }
+   
+    .text1{
+        top: 15%;
+        left: 15%;
+    }
+    .text2{
+        top: 15%;
+        left: 15%;
+    }
+    .text3{
+        top: 15%;
+        left: 15%;
+    }
+    .banner_text button{
+        margin-top: 18px;
+        padding: 4px 15px;
+        background: rgb(51, 16, 0);
+        border: 1px solid rgb(243, 110, 48);
+        color: white;
+    }
+    .who h2{
+        font: 24px arial;
+        font-weight: 700;
+        margin: 5px 0;
+    }
+    .who p{
+        margin: 15px 0 30px;
+        font: 12px arial;
+        text-align: center;
+        line-height: 22px;
+        color: rgb(0,0,0,.7);
+    }
+    .wrap p{
+        margin: 0;
+        color: white;
+    }
+    .who1 h2{
+        margin-top: 25px;
+    }
+    .service-card h3{
+        font: bold 18px arial;
+        margin: 25px 0 25px;
+    }
+    .service-card h4{
+        font: 16px arial;
+        text-align: justify;
+        line-height: 25px;
+        margin-bottom: 28px;
+        /* color: #c4c8cb; */
+    }
+    .service-card h2 button{
+        padding: 12px 25px;
+    }
+    .row1{
+        justify-content: center;
+    }
+}
+/* @media (min-width:1024px){
+    .b_img{
+        height: 55vh;
+    }
+    .banner_text h1{
+        font: 47px arial !important;
+        margin-bottom: 15px ;
+        font-weight: 800 !important;
+        color: rgb(255, 104, 33);
+    }
+    .banner_text p{
+        font: bold 18px arial;
+        letter-spacing: 2px;
+        color: rgb(255, 106, 37);
+        margin-bottom: 15px;
+    }
+   
+    .text1{
+        top: 18%;
+        left: 15%;
+    }
+    .text2{
+        top: 18%;
+        left: 15%;
+    }
+    .text3{
+        top: 18%;
+        left: 15%;
+    }
+    .banner_text button{
+        font: 16px arial;
+        margin-top: 18px;
+        padding: 8px 15px;
+        background: rgb(51, 16, 0);
+        border: 1px solid rgb(243, 110, 48);
+        color: white;
+    }
+} */
+
